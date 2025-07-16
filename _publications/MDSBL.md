@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/MDSBL
 date: 2024-11-10
-venue: '2024 the 18th National Conference on Signal and Intelligent Information Processing and Application'
+venue: '2024 the 18th National Conference on Signal and Intelligent Information Processing and Application'
 paperurl: '/files/MDSBL.pdf'
 ---
 
