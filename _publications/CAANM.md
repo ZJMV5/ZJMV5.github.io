@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: 'This paper is accepted by ACTA ACUSTICA (Chinese version).'
 permalink: /publication/CAANM
+paperurl: '/files/CAANM.pdf'
 date: 2025-05-13
 venue: 'ACTA ACUSTICA, Chinese version'
 ---
