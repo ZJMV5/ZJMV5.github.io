@@ -2,6 +2,7 @@
 title: "Fast constrained area DOA estimation based on atomic norm minimization (in Chinese)"
 collection: publications
 category: manuscripts
+excerpt: 'This paper is accepted by ACTA ACUSTICA (Chinese version).'
 permalink: /publication/CAANM
 date: 2025-05-13
 venue: 'ACTA ACUSTICA, Chinese version'
