@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
+title: "Gridless wideband joint elevation-azimuth angle estimation based on multiple frequency model"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+To achieve gridless joint elevation-azimuth angle estimation of wideband signals, an algorithm based on atomic norm minimization theory is proposed. To reduce computational complexity, two fast implementation algorithms based on decoupling and eliminating redundant information are proposed. Theoretical analysis and numerical simulations demonstrate the superiority of the proposed algorithms.
+
+This word has been published in the journal article titled "[Wideband joint elevation-azimuth angle estimation based on multiple frequency model and atomic norm minimization](https://zjmv5.github.io/publication/2DMFANM_J)"
