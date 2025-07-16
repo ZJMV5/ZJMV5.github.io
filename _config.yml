@@ -22,7 +22,7 @@ repository               : "ZJMV5/ZJMV5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "照片.jpg"
   name             : "Jingming Zhang 张景铭"
   pronouns         : # example: "she/her"  
   bio              : "M.Eng in Signal and Information Processing"
