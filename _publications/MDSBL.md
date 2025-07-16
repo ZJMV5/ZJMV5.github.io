@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/MDSBL
 date: 2024-11-10
+excerpt: '*Keywords*: frequency modulated continuous wave (FMCW); joint angle-velocity estimation; sparse Bayesian learning; wideband signals'
 venue: '2024 the 18th National Conference on Signal and Intelligent Information Processing and Application'
 paperurl: '/files/MDSBL.pdf'
 ---
