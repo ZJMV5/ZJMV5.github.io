@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/APWC
 date: 2024-09-01
+excerpt: '*Keywords*: wideband signals, multi-frequency, ANM, 2D DOA estimation, SDP'
 venue: '2024 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)'
 paperurl: '/files/APWC.pdf'
 ---
