@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingming Zhang 张景铭"
+title: "ZHANG Jingming"
 author_profile: true
 redirect_from: 
   - /about/
