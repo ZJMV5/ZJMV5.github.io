@@ -8,7 +8,7 @@ venue: '2024 IEEE-APS Topical Conference on Antennas and Propagation in Wireless
 paperurl: '/files/APWC.pdf'
 ---
 
-Abstract: The estimation of the Direction of Arrival (DOA) plays a critical role in sonar, radar, and acoustic source localization. However, current research predominantly concentrates
+**Abstract**: The estimation of the Direction of Arrival (DOA) plays a critical role in sonar, radar, and acoustic source localization. However, current research predominantly concentrates
 on narrowband, one-dimensional signals, which can’t be directly applied to practical scenarios where the signals are usually wideband and multi-dimensional. In this paper, we propose
 a two-dimensional multi-frequency atomic norm minimization (2DMFANM) algorithm for the estimation of elevation and azimuth angles for wideband signals. A multi-frequency signal
 representation is adopted to accurately model wideband signals. The technique of atomic norm minimization (ANM) is leveraged to extract DOA information from the received signals in a
