@@ -7,7 +7,7 @@ permalink: /publication/2DMFANM_J
 date: 2025-04-01
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 paperurl: '/files/TIM.pdf'
-citation: ''
+citation: 
 ---
 **Abstract**: Estimating the direction of arrival (DOA) has been a crucial problem in a wide range of applications. Current research predominantly focuses on narrow-band, 1-D signals, which are not directly applicable to practical scenarios involving wideband and multidimensional signals. To deal with this
 drawback, we propose a 2-D multiple frequency atomic norm
