@@ -1,6 +1,6 @@
 ---
 title: "Gridless wideband joint elevation-azimuth angle estimation based on multiple frequency model"
-excerpt: "<img src='/images/阵列示意图.pdf'>"
+excerpt: "<img src='/images/阵列示意图.png'>"
 collection: portfolio
 ---
 
