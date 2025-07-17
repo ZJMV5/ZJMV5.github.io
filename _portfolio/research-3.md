@@ -12,4 +12,4 @@ method when the SNR is sufficiently high. In particular, due to the utilization 
 information, the ANM method that considers range information demonstrates better robustness and accuracy
 than the ANM method that ignores range information.
 
-Part of this work (i.e. the grid-based method) has been published in the [conference paper](https://zjmv5.github.io/publication/MDSBL) (in Chinese). The gridless methods were presented in my Master's thesis.
+Part of this work (i.e. the grid-based method) has been published in the [conference paper](https://zjmv5.github.io/publication/MDSBL) (in Chinese) [[PDF](https://zjmv5.github.io/files/MDSBL.pdf)]. The gridless methods were presented in my Master's thesis.
