@@ -1,6 +1,6 @@
 ---
 title: "Joint angle-range estimation for the wideband sonar based on atomic norm minimization"
-excerpt: "<img src='/images/阵列示意图.png'>"
+excerpt: "<img src='/images/阵列示意图_eng.png'>"
 collection: portfolio
 ---
 
