@@ -1,6 +1,6 @@
 ---
 title: "Fast constrained area DOA estimation based on atomic norm minimization"
-excerpt: "In order to distinguish between targets, reverberation, and interference, the problem of joint angle-velocity estimation for wideband LFM pulse sonars was studied."
+excerpt: "<img src='/images/示意图.png'>"
 collection: portfolio
 ---
 
