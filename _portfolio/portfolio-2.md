@@ -13,4 +13,4 @@ at low SNRs.
 
 > **Remark**: From the viewpoint of the signal model, this work can be viewed as an extension of the [previous study](https://zjmv5.github.io/portfolio/portfolio-1/), where the frequencies of the received  signals were assumed to be low. In this study, the frequencies were much higher and exhibited band-pass properties.  Although the techniques developed in the previous study can also be applied to this scenario, their complexity is too high for implementation. To address this problem, we designed a novel mapping operator that greatly reduces the complexity of the algorithm and thus facilitates its implementation.
 
- The main ideas and results are presented in my Master’s thesis. Recently, I have been adding more details and preparing to organize this work into a journal paper.
+ The main ideas and results were presented in my Master’s thesis. Recently, I have been adding more details and preparing to organize this work into a journal paper.
