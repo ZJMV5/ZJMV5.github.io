@@ -23,7 +23,7 @@ Education
  
 Research Experience
 ======
-<img style="float: left; margin:15px 10px" src="/images/所徽简洁.png" width="160" height="140">
+<img style="float: left; margin:15px 10px" src="/images/所徽简洁(1).png" width="160" height="140">
 ### Institute of Acoustics, Chinese Academy of Sciences
 <p style="line-height:1.0">
 <font size="2">
