@@ -20,3 +20,16 @@ Education
 - **2018.09-2022.06 Hohai University (HHU), Nanjing, China**
   - **B.Eng.** in Electronic Sciences and Technology
   -  **GPA**: 4.8/5.0 [[Transcript](/files/Transcript_Undergraduate.pdf)]
+ 
+Research Experience
+======
+<img style="float: left; margin:15px 10px" src="/images/所徽简洁.png" width="160" height="140">
+### Institute of Acoustics, Chinese Academy of Sciences
+<p style="line-height:1.0">
+<font size="2">
+July 2023 - June 2025<br />
+<strong>Graduate Student</strong><br />
+<br>
+</font>
+</p>
+
