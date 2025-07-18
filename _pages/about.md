@@ -23,13 +23,6 @@ Education
  
 Research Experience
 ======
-<img style="float: left; " margin="5px 5px 0px" src="/images/所徽简洁(1).png">
-### Institute of Acoustics, Chinese Academy of Sciences
-<p style="line-height:1.0">
-<font size="2">
-July 2023 - June 2025<br />
-<strong>Graduate Student</strong><br />
-<br>
-</font>
-</p>
+- **2023.07-2025.06 Institute of Acoustics, Chinese Academy of Sciences, Beijing, China**
+  - **Graduate Student**
 
