@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: 'This paper is accepted by ACTA ACUSTICA (Chinese version). <br>*Keywords*: Constrained area, Direction of arrival estimation, Atomic norm minimization, Semi-definite programming, Primal-dual interior point method'
 permalink: /publication/CAANM
-paperurl: '/files/CAANM.pdf'
+paperurl: '/files/2025093-E1.pdf'
 date: 2025-05-13
 venue: 'ACTA ACUSTICA, Chinese version'
 ---
