@@ -11,4 +11,4 @@ proposed. Furthermore, a fast implementation algorithm based on the primal-dual 
 was developed. Theoretical analysis and numerical simulations demonstrated the superiority of the proposed
 algorithms.
 
-This work has been submitted to and accepted by ACTA ACUSTICA (Chinese version). [[Abstract](https://zjmv5.github.io/publication/CAANM)][[Manuscript](https://zjmv5.github.io/files/2025093-E1.pdf)]
+This work has been submitted to and accepted by ACTA ACUSTICA (Chinese version). [[Abstract](https://zjmv5.github.io/publication/CAANM)][[Manuscript](https://zjmv5.github.io/files/2025093.pdf)]
